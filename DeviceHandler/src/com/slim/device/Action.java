@@ -14,7 +14,7 @@
 * limitations under the License.
 */
 
-package org.slim.action;
+package com.slim.device;
 
 import android.app.Activity;
 import android.app.ActivityManagerNative;
