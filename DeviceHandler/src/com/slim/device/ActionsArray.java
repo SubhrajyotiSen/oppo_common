@@ -21,8 +21,8 @@ import android.content.Context;
 import java.util.ArrayList;
 import java.util.List;
 
-import org.slim.action.ActionConstants;
-import org.slim.utils.DeviceUtils;
+import com.slim.device.ActionConstants;
+import com.slim.device.DeviceUtils;
 
 public class ActionsArray {
 
