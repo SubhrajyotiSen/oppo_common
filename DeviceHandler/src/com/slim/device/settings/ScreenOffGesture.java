@@ -37,9 +37,9 @@ import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 
-import slim.action.ActionsArray;
-import slim.action.ActionConstants;
-import slim.utils.AppHelper;
+import com.slim.device.ActionsArray;
+import com.slim.device.ActionConstants;
+import com.slim.device.AppHelper;
 
 import com.slim.device.KernelControl;
 import com.slim.device.R;
