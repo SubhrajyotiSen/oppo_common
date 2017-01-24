@@ -41,7 +41,7 @@ import com.android.internal.telephony.PhoneConstants;
 import java.util.ArrayList;
 import java.util.List;
 
-import org.slim.action.ActionConstants;
+import com.slim.device.ActionConstants;
 
 public class DeviceUtils {
 
